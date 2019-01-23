@@ -1,0 +1,162 @@
+
+.menu{
+    margin-top:25px;
+    margin-left: 150px;
+    height:70px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user-link{
+    margin-right: 50px;
+}
+.para{
+    margin:5%
+}
+.profile{
+    overflow:hidden;
+    margin-left: 15%;
+    
+}
+.work{
+    margin-left: 200px;
+    overflow: hidden;
+    
+}
+
+
+.p-1{
+    display: flex;
+    flex-direction: column;
+
+}
+.paragraphe{
+    display: flex;
+    justify-content:space-between;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.menu-main{margin-left: 5%;
+
+
+}
+.p-2{
+    display: flex;
+    flex-direction: column;
+}
+.titre{
+    display: flex;
+    justify-content: center;
+    
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+    margin:25%;
+}
+.box01{
+    margin-bottom: 25%;
+    
+    width: 164%;
+    text-align: center;
+    height: 245px;
+    background-color: white;
+}
+.box2{
+    display: flex;
+    flex-direction: column;
+    margin:20%;
+}
+.box11{
+    margin-bottom: 15%;
+}
+.img20{
+    width:120%;
+}
+
+.no-lines{
+    display: flex;
+    flex-direction: column;
+}
+.healthcare{
+    margin: 20%;
+    padding-bottom:10%;
+    background-color: aquamarine;
+}
+
+.line{
+    margin:5%;
+}
+.line5{
+    margin-left:5%;
+    
+}
+.patients{
+    background-color: aqua;
+    margin-bottom: 10%;
+    
+}
+.doctors{
+    background-color: rgb(105, 137, 185);
+    padding-bottom: 50px;
+    margin-bottom: 10%;
+    
+}
+ul{
+    list-style-type: none;
+}
+.small-text{
+    color: rgb(56, 173, 134);
+}
+.link-znan{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 30%;
+
+}
+.row1{
+    background-color: aqua;
+}
+.box02{
+    width: 164%;
+    text-align: center;
+    height: 245px;
+    background-color: white;
+}
+.box11{
+    width: 120%;
+    text-align: center;
+    height: 280px;
+    background-color: white;
+}
+.box12{
+    width: 120%;
+    text-align: center;
+    height: 280px;
+    background-color: white;
+}
+.bloc1{
+    background-color: aquamarine;
+}
+
+.europe{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+    .america{
+        display: flex;
+        justify-content:space-around;
+    }
+    .foot{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin-top: 10%;
+        align-items: center;
+        color: darkgrey;
+    }
+.medium-title{
+    color:aqua;
+}
